@@ -2,7 +2,7 @@
 FIAP - Defesa Cibernética
 
 Projeto acadêmico com a finalidade de desenvolver uma simples calculadora em C, que
-possa realizar as 4 operações matematícas de forma básica. */
+possa realizar as 4 operações matemáticas de forma básica. */
 
 #include <stdio.h>
 //#include <locale.h>
